@@ -1,5 +1,5 @@
 // script.js
-/*
+/*.
 $(document).ready(function(){
 	var urls = 'https://outboxedu-contacts.herokuapp.com/all';
 
@@ -48,4 +48,7 @@ $(document).ready(function() {
     });
   });
 });
+<<<<<<< HEAD
 
+=======
+>>>>>>> 056c7a431203cd7dfdd406f68f3fbb0d4e64e54c
